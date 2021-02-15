@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/makeyourownneuralnetwork/makeyourownneuralnetwork/master/part3_neural_network_mnist_and_own_single_image.ipynb
