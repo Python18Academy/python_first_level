@@ -1,3 +1,5 @@
+
+#
 data_arr = []
 salary_arr = []
 amount = 0
@@ -11,8 +13,8 @@ for i in range(3):
 
 for salary in salary_arr:
     amount += int(salary)
-
 mean = amount / 3
+
 mean = str(mean)
 
 for name in data_arr:
