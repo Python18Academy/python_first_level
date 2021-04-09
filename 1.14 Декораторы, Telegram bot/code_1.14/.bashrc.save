@@ -1,0 +1,1 @@
+export PATH="<path-to-unpacked-pycharm-installation-directory>/bin:$PATH"/snap/pycharm-community/233/command-pycharm-community.wrapper
