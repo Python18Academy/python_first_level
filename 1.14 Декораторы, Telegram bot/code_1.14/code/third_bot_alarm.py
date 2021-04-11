@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 
 # Определяем наши основные команды.
 def start(update, context):
-    update.message.reply_text('Привет! Используй /set <seconds> чтобы установиться таймер')
+    update.message.reply_text('Привет! Используй /film <seconds> чтобы установиться таймер')
 
 
 def alarm(context):
