@@ -6,7 +6,8 @@ https://ghibliapi.herokuapp.com/#tag/Films
 pip install python-telegram-bot --upgrade
 token = '1706546567:AAEuglIh-gcmU8KnP3hebhjPUwkx5qUj3cg'
 logging встроенная библиотека для логирования событий
-import json
+
+pip install pyTelegramBotAPI
 """
 
 

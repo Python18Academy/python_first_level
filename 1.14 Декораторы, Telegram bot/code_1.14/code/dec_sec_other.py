@@ -9,8 +9,10 @@ def not_during_the_night(func):
             print("Я вам запрещаю работать по ночам")
     return wrapper
 
+@not_during_the_night
 def say_whee():
     print("Вполне можно и покодить в данном время")
 
-say_whee = not_during_the_night(say_whee)
+
+
 say_whee()
