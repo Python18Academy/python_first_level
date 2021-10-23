@@ -4,7 +4,7 @@ from selenium import webdriver
 class YandexTestCase(unittest.TestCase):
 
     def setUp(self):
-        self.browser = webdriver.Firefox()
+        self.browser = webdriver.Chrome()
         self.addCleanup(self.browser.quit)
 
     def testPageTitle(self):
